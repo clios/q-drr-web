@@ -50,5 +50,6 @@
   "engines": {
     "node": "16.19.x",
     "npm": "8.19.x"
-  }
+  },
+  "engineStrict": true
 }
