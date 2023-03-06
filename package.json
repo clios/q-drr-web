@@ -23,7 +23,6 @@
   },
   "dependencies": {
     "@carbon/icons-react": "^10.48.0",
-    "@reach/router": "^1.3.4",
     "@watergis/mapbox-gl-export": "^1.2.21",
     "axios": "^0.27.2",
     "cleave.js": "^1.6.0",
@@ -47,9 +46,5 @@
     "swr": "^1.3.0",
     "urlcat": "^2.0.4",
     "victory": "^36.4.1"
-  },
-  "engines": {
-    "node": "18.x",
-    "npm": "9.x"
   }
 }
