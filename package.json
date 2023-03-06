@@ -49,8 +49,8 @@
     "victory": "^36.4.1"
   },
   "engines": {
-    "node": "16.19.x",
-    "npm": "8.19.x"
+    "node": "18.14.x",
+    "npm": "9.3.x"
   },
   "engineStrict": true
 }
