@@ -1,0 +1,18 @@
+.section-body {
+  display: flex;
+  column-gap: 2rem;
+  row-gap: 1rem;
+  flex-wrap: wrap;
+  padding: 0.5rem 4rem 1rem 4rem;
+  background-color: hsla(0, 0%, 100%, 0.1);
+}
+
+.section-body-title {
+  color: #df9c20;
+  padding: 0.5rem 3rem 0 3rem;
+  background-color: hsla(0, 0%, 100%, 0.1);
+}
+
+.section-body-loader {
+  padding: 0 2rem;
+}
