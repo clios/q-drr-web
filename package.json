@@ -1,7 +1,7 @@
 {
-  "name": "qikstarter-drr",
+  "name": "q-drr-web",
   "version": "0.0.1",
-  "description": "A demo kit for Quirino Province projects.",
+  "description": "The frontend application that powers Q-DRR Management Information System.",
   "main": "index.js",
   "scripts": {
     "build:forced": "npm install --force && node build.config.js && cp public/* dist",
@@ -22,7 +22,7 @@
     "live-server": "^1.1.0"
   },
   "dependencies": {
-    "@carbon/icons-react": "^10.48.0",
+    "@carbon/icons-react": "^10.49.5",
     "@reach/router": "^1.3.4",
     "@watergis/mapbox-gl-export": "^1.2.21",
     "axios": "^1.6.8",
@@ -38,10 +38,10 @@
     "mapbox-gl": "^2.10.0",
     "michi.css": "0.0.12",
     "prop-types": "^15.8.1",
-    "react": "^17.0.2",
+    "react": "16.14.0",
     "react-confirm-alert": "^2.8.0",
     "react-csv": "^2.2.2",
-    "react-dom": "^17.0.2",
+    "react-dom": "16.14.0",
     "react-loading-skeleton": "^3.1.0",
     "react-toastify": "^9.0.3",
     "swr": "^1.3.0",
